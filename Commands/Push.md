@@ -23,4 +23,3 @@ After this command is used, you can just us `git push` and it will function the 
 
 ---
 
-[Back to home](../README.md)
